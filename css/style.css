@@ -18,7 +18,8 @@
          justify-content:space-around;
          align-items:center;}
          
-    .menu ul li{list-style:none;font-size:12px;font-weight:bold;text-tranform;uppercase;}
+    .menu ul li{list-style:none;font-size:15px;font-weight:bold;text-tranform;uppercase;
+Display:inline-block}
     section{display:flex}
     .leftside{width:45%;height:auto;
               overflow:hidden;margin-top:20px;}
