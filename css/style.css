@@ -19,7 +19,7 @@ border:2px solid red;
          align-items:center;}
          
     .menu ul li{list-style-type:none;font-size:15px;font-weight:bold;text-tranform;uppercase;
-display:inline-block}
+}
     section{display:flex}
     .leftside{width:45%;height:auto;
               overflow:hidden;margin-top:20px;}
